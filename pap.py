@@ -85,7 +85,7 @@ def main():
                 os.system("pkg install jq -y")
 
             # Proses file dengan ekstensi yang ditentukan
-            extensions = ["zip"]
+            extensions = ["zip", "jpg", "tar.gz", "mp4", "apk",]
             for ext in extensions:
                 process_files(ext)
                 time.sleep(1)
